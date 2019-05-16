@@ -16,7 +16,7 @@
 		<title>Home Page</title>
 		<link href="style.css" rel="stylesheet" type="text/css">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css">
-        <link rel="stylesheet" href="css/home.css">
+        <link rel="stylesheet" href="css/style.css">
 	</head>
 	<body class="loggedin">
 		<nav class="navtop">
