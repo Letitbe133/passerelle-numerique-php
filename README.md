@@ -102,6 +102,12 @@ CSS links :
 ## logout.php
 
 - détruit la session de l'utilisateur
-- redirige l'utilisateur vers index.html 
+- redirige l'utilisateur vers index.html
+
+# Ressources
+
+-[php.net] (https://www.php.net/)
+-[phptherightway.com] (https://phptherightway.com/)
+-[www.w3schools.com] (https://www.w3schools.com/php7/default.asp)
 
 
