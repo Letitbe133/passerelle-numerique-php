@@ -44,9 +44,9 @@ Formulaire de login :
 > action: authenticate.php
 > method: POST
 > inputs: 
->> username: type=text, name=username
->> password: type=password, name=password
->> submit: type=submit, value=login
+>> **username**: type=text, name=username
+>> **password**: type=password, name=password
+>> **submit**: type=submit, value=login
 
 ## authenticate.php
 
